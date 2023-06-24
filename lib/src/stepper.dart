@@ -10,7 +10,7 @@ import 'label_painter.dart';
 import 'overlay_painter.dart';
 import 'step.dart';
 
-const double sideGap = 5;
+const double sideGap = 0;
 const Color debugBorderColor = Color(0xFFFF0000);
 const TextStyle headlineStyle = TextStyle(
   fontSize: 15,
